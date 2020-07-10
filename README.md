@@ -1,4 +1,4 @@
 type make to compile
-1. enter number of player
-2. enter name 
-3. CPUS CPUL for two kinds of AI
+1. enter number of players
+2. enter players' name 
+3. specify CPUS/CPUL for two kinds of AI
