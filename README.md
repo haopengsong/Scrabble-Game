@@ -1,7 +1,7 @@
 ### Scrabble 
 
 #### Description 
-A game for players to place tiles on a board, forming correct words, and gaining points for their words
+A game for players to place tiles on a board, forming correct words, and gaining points for their words.
 The detailed rules can be find [here](https://www.scrabblepages.com/scrabble/rules/)
 
 #### Demo
